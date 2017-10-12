@@ -1,0 +1,1 @@
+orig_farcOpen = 0x638810;
